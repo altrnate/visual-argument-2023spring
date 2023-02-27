@@ -32,7 +32,8 @@ was illuminating them, as well as making them stand out. This produced my final 
 There are a couple things that I found very benifical when completeing the project. To start, keyboard commands really aided in speeding up my efficiency, especially 
 with so many icons. The biggest ones I used was Shift + R (Rotate), Shift + S (Scale), and M (move). In addition to this, I kept my layers organized, even having 
 subfolders in folders 
+
 <img width="314" alt="Layer Organization" src="https://user-images.githubusercontent.com/122398220/221011338-4dfd31e6-bb2c-47b6-8c4b-e5f2c4b0a96f.png">
 These two things were by far the most helpful with getting this project done on time. 
 
-Overall, I am happy with my project. I feel as if was able to successfully convey my idea in a easily digestable, small design. 
+Overall, I am happy with my project. I feel as if was able to successfully convey my idea in a easily digestable, small design. GIMP was a completely new program for me, so learning how to use all of the tools and effiecent organization was an enjoyable challange for me and I am glad I am at least comfortable with it. 
